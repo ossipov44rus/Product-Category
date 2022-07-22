@@ -1,2 +1,2 @@
 # Product-Category
-SQL query 
+SQL query to write all pairs Product-Category
